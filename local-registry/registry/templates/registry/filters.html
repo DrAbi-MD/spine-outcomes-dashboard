@@ -1,1 +1,0 @@
-<form method="get" class="filters panel">{% for field in filter_form %}<label>{{ field.label }}{{ field }}{{ field.errors }}</label>{% endfor %}<div class="filter-actions"><button>Apply filters</button><a class="button quiet" href="{{ request.path }}">Reset</a></div>{{ filter_form.non_field_errors }}</form>
