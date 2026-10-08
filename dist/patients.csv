@@ -1,0 +1,241 @@
+patient_id,age,sex,diagnosis,procedure,levels,surgery_date,hospital_days,complication,vas_baseline,odi_baseline,vas_3m,odi_3m,vas_6m,odi_6m
+SYN-0001,58,Male,Lumbar disc herniation,Open decompression,3,2025-04-01,6,None,9,62,3.2,27.2,3.5,35.2
+SYN-0002,81,Male,Lumbar stenosis,Full endoscopic,2,2024-12-11,1,None,8,30,3.3,1.0,4.0,0
+SYN-0003,67,Male,Lumbar stenosis,Open decompression,2,2025-07-03,5,Dural tear,8,38,3.2,11.8,,
+SYN-0004,48,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2024-10-08,8,None,5,56,0,29.2,0,33.8
+SYN-0005,65,Male,Lumbar disc herniation,Full endoscopic,3,2025-09-13,3,None,10,68,7.4,33.2,6.5,33.4
+SYN-0006,78,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2025-06-07,4,None,8,56,2.7,45.7,,
+SYN-0007,67,Male,Lumbar stenosis,Decompression + fusion,2,2024-07-27,7,None,8,64,5.9,45.9,1.8,36.7
+SYN-0008,59,Female,Lumbar disc herniation,Open decompression,3,2024-04-04,6,None,8,52,3.0,30.5,4.9,37.0
+SYN-0009,53,Female,Degenerative spondylolisthesis,Open decompression,3,2024-08-19,3,Superficial infection,10,78,7.4,59.2,3.9,36.4
+SYN-0010,73,Female,Degenerative spondylolisthesis,Open decompression,3,2024-07-01,2,None,5,56,0,24.1,0.8,29.5
+SYN-0011,42,Female,Lumbar disc herniation,Full endoscopic,2,2025-10-20,2,None,7,70,1.9,59.3,2.7,46.5
+SYN-0012,47,Female,Degenerative spondylolisthesis,UBE,1,2024-01-21,1,None,8,68,3.6,39.0,,
+SYN-0013,30,Female,Degenerative spondylolisthesis,UBE,1,2025-05-14,4,None,8,74,5.9,45.9,1.5,34.0
+SYN-0014,55,Male,Lumbar stenosis,Open decompression,2,2024-09-26,6,None,6,52,2.1,14.0,1.8,32.0
+SYN-0015,64,Female,Lumbar disc herniation,UBE,1,2025-03-12,2,None,6,30,0.5,1.9,0,0
+SYN-0016,38,Female,Degenerative spondylolisthesis,Open decompression,2,2024-02-22,2,None,9,78,6.1,59.7,3.8,60.2
+SYN-0017,81,Male,Degenerative spondylolisthesis,UBE,1,2025-05-03,1,None,10,70,6.7,43.5,,
+SYN-0018,44,Male,Lumbar stenosis,Decompression + fusion,2,2024-07-11,6,None,5,32,2.9,18.6,0,0
+SYN-0019,44,Female,Lumbar stenosis,Decompression + fusion,2,2024-05-23,4,None,10,36,4.6,6.9,5.4,0
+SYN-0020,32,Female,Lumbar disc herniation,Open decompression,1,2024-03-17,4,None,8,50,5.9,13.2,4.8,7.1
+SYN-0021,30,Female,Degenerative spondylolisthesis,Open decompression,3,2024-11-23,6,None,5,56,1.6,35.2,0.3,34.9
+SYN-0022,42,Female,Lumbar stenosis,Open decompression,3,2024-03-18,2,None,6,44,,,1.1,21.6
+SYN-0023,25,Female,Degenerative spondylolisthesis,Open decompression,3,2024-12-28,5,None,7,70,2.0,58.4,1.5,48.2
+SYN-0024,79,Male,Lumbar stenosis,UBE,1,2024-11-14,2,None,9,82,3.6,61.5,4.2,44.3
+SYN-0025,67,Female,Lumbar disc herniation,Open decompression,1,2024-12-19,4,None,9,74,6.8,59.2,3.8,51.6
+SYN-0026,31,Male,Lumbar stenosis,Decompression + fusion,2,2025-05-02,7,None,9,62,4.4,25.0,,
+SYN-0027,60,Male,Lumbar disc herniation,UBE,2,2025-09-06,1,None,7,48,3.6,10.8,1.0,32.7
+SYN-0028,45,Male,Degenerative spondylolisthesis,UBE,1,2024-10-20,2,None,6,30,1.9,0,3.0,4.5
+SYN-0029,29,Female,Lumbar stenosis,Decompression + fusion,2,2025-10-12,2,None,5,82,1.5,54.7,0.6,41.5
+SYN-0030,68,Male,Lumbar disc herniation,Decompression + fusion,2,2025-03-07,8,None,7,46,4.1,26.9,2.7,5.6
+SYN-0031,49,Male,Degenerative spondylolisthesis,Open decompression,2,2024-06-09,8,None,7,56,2.6,40.0,1.7,20.4
+SYN-0032,62,Male,Lumbar stenosis,UBE,2,2024-09-23,3,None,9,70,5.7,56.0,4.9,38.9
+SYN-0033,35,Male,Lumbar stenosis,Full endoscopic,2,2025-01-13,2,None,10,78,4.4,44.3,4.3,47.7
+SYN-0034,22,Female,Degenerative spondylolisthesis,Open decompression,1,2024-11-28,4,None,6,50,1.6,16.7,0,21.5
+SYN-0035,31,Male,Lumbar disc herniation,Decompression + fusion,1,2025-04-20,7,None,9,46,5.5,20.4,2.9,3.5
+SYN-0036,39,Male,Lumbar stenosis,Full endoscopic,1,2024-09-24,2,Transient neurological deficit,9,56,4.3,30.3,,
+SYN-0037,30,Female,Lumbar stenosis,Open decompression,2,2025-05-27,8,None,7,52,3.1,28.3,3.0,19.0
+SYN-0038,63,Male,Lumbar stenosis,Open decompression,2,2024-09-17,6,None,9,82,5.8,55.7,2.5,46.7
+SYN-0039,82,Male,Lumbar stenosis,Open decompression,1,2024-01-15,3,None,7,40,,,0.8,3.7
+SYN-0040,42,Male,Degenerative spondylolisthesis,UBE,2,2024-03-20,2,None,9,42,5.9,7.5,3.8,3.5
+SYN-0041,56,Male,Lumbar disc herniation,Full endoscopic,1,2025-03-06,1,None,10,32,6.8,0,,
+SYN-0042,27,Male,Degenerative spondylolisthesis,UBE,2,2024-06-05,1,None,8,70,2.4,33.2,2.9,30.1
+SYN-0043,77,Female,Lumbar disc herniation,Full endoscopic,2,2025-04-27,2,None,7,66,2.2,33.1,3.9,36.9
+SYN-0044,41,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2025-02-07,7,None,6,52,0,30.2,0,17.3
+SYN-0045,49,Female,Lumbar disc herniation,Open decompression,3,2024-11-21,8,None,10,72,7.4,57.2,6.2,30.5
+SYN-0046,31,Female,Degenerative spondylolisthesis,Open decompression,2,2025-07-20,7,None,8,30,4.2,12.4,1.1,12.0
+SYN-0047,74,Female,Degenerative spondylolisthesis,Open decompression,2,2025-01-03,6,None,7,72,,,1.8,34.7
+SYN-0048,79,Male,Degenerative spondylolisthesis,Decompression + fusion,1,2024-02-13,2,None,9,36,4.4,9.9,4.1,20.4
+SYN-0049,31,Male,Lumbar stenosis,Full endoscopic,2,2024-06-23,4,None,5,76,0,51.4,0,51.6
+SYN-0050,59,Male,Lumbar stenosis,UBE,2,2024-08-07,4,None,9,50,5.0,23.3,2.9,18.5
+SYN-0051,60,Female,Degenerative spondylolisthesis,Decompression + fusion,3,2024-10-12,8,None,6,48,1.9,30.5,0.1,32.3
+SYN-0052,25,Male,Lumbar disc herniation,UBE,1,2025-06-03,3,None,8,54,2.8,21.5,1.1,32.2
+SYN-0053,78,Male,Lumbar disc herniation,UBE,3,2024-04-21,4,None,10,82,5.1,68.8,4.3,57.0
+SYN-0054,81,Male,Lumbar disc herniation,UBE,1,2024-09-21,2,None,10,34,8.0,6.7,,
+SYN-0055,61,Female,Lumbar disc herniation,Open decompression,1,2024-03-18,3,None,6,64,3.7,53.1,0.8,36.6
+SYN-0056,70,Female,Lumbar stenosis,Decompression + fusion,3,2024-08-28,7,None,7,70,3.1,59.5,,
+SYN-0057,58,Male,Lumbar stenosis,UBE,3,2025-02-24,1,None,8,64,6.0,43.4,3.0,37.3
+SYN-0058,22,Female,Lumbar disc herniation,Full endoscopic,2,2024-12-15,1,None,8,44,3.6,17.9,4.3,8.1
+SYN-0059,55,Male,Lumbar stenosis,UBE,1,2025-05-01,4,None,9,62,5.1,50.1,,
+SYN-0060,50,Female,Lumbar disc herniation,Decompression + fusion,2,2025-08-25,5,None,10,70,,,6.6,31.7
+SYN-0061,35,Female,Lumbar stenosis,Open decompression,2,2025-04-28,7,None,8,76,4.1,41.9,4.6,45.7
+SYN-0062,56,Male,Lumbar disc herniation,Full endoscopic,2,2025-08-08,2,None,6,54,2.7,29.0,0.8,13.5
+SYN-0063,61,Male,Lumbar disc herniation,UBE,1,2025-09-10,4,None,7,40,2.3,26.5,1.5,5.9
+SYN-0064,48,Male,Degenerative spondylolisthesis,Open decompression,2,2025-04-18,6,None,10,82,6.0,48.7,5.4,60.8
+SYN-0065,45,Female,Degenerative spondylolisthesis,Full endoscopic,3,2024-02-04,2,None,5,44,1.0,23.0,1.4,14.6
+SYN-0066,26,Male,Lumbar stenosis,Open decompression,1,2025-11-14,2,None,10,62,5.5,40.3,3.4,44.3
+SYN-0067,80,Male,Lumbar disc herniation,Decompression + fusion,1,2024-01-22,5,None,7,68,4.7,51.4,0.2,27.4
+SYN-0068,33,Male,Lumbar disc herniation,Decompression + fusion,1,2025-12-18,6,None,8,32,4.6,19.2,,
+SYN-0069,66,Female,Lumbar disc herniation,Open decompression,2,2024-07-21,2,None,6,30,1.6,0,0,0
+SYN-0070,48,Male,Degenerative spondylolisthesis,Open decompression,1,2025-09-15,4,None,7,56,1.5,37.3,1.6,35.9
+SYN-0071,77,Female,Lumbar stenosis,UBE,1,2024-10-20,3,None,10,78,6.2,58.0,3.2,54.3
+SYN-0072,74,Male,Degenerative spondylolisthesis,Full endoscopic,2,2025-10-13,3,None,10,50,6.3,27.1,6.6,24.6
+SYN-0073,67,Male,Lumbar stenosis,Decompression + fusion,3,2024-02-25,4,None,10,52,4.9,41.7,6.8,36.4
+SYN-0074,67,Male,Lumbar stenosis,Open decompression,3,2025-02-22,6,None,10,46,,,6.7,26.1
+SYN-0075,26,Male,Degenerative spondylolisthesis,Full endoscopic,1,2024-08-27,1,None,7,38,3.3,24.7,0.4,0.8
+SYN-0076,41,Female,Lumbar stenosis,Decompression + fusion,2,2024-10-13,7,None,7,64,1.8,48.7,,
+SYN-0077,34,Male,Lumbar stenosis,Decompression + fusion,2,2024-04-11,3,None,8,58,5.4,48.0,4.6,39.4
+SYN-0078,58,Female,Degenerative spondylolisthesis,Open decompression,2,2024-04-11,4,None,5,36,1.5,15.9,0,20.7
+SYN-0079,57,Male,Degenerative spondylolisthesis,Full endoscopic,1,2025-05-19,4,None,9,34,5.1,14.3,5.4,14.8
+SYN-0080,73,Female,Lumbar disc herniation,UBE,3,2025-04-24,3,None,7,60,,,3.5,17.2
+SYN-0081,65,Male,Lumbar disc herniation,Open decompression,1,2025-06-10,4,None,6,46,0.4,9.4,2.2,27.5
+SYN-0082,42,Female,Degenerative spondylolisthesis,Full endoscopic,1,2025-02-09,4,Transient neurological deficit,5,48,2.6,32.4,0,32.2
+SYN-0083,66,Male,Lumbar stenosis,Open decompression,1,2025-06-07,6,Superficial infection,9,76,6.8,42.4,4.0,41.8
+SYN-0084,65,Female,Degenerative spondylolisthesis,Open decompression,3,2024-08-05,8,None,8,64,5.7,35.9,4.9,36.0
+SYN-0085,35,Male,Lumbar stenosis,Full endoscopic,1,2024-01-24,4,None,10,70,4.2,52.6,6.1,49.2
+SYN-0086,34,Female,Lumbar stenosis,UBE,2,2025-06-28,2,None,6,74,3.3,43.0,0,43.4
+SYN-0087,27,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2024-02-15,3,None,7,78,2.1,47.5,0.6,53.7
+SYN-0088,66,Female,Lumbar disc herniation,Open decompression,1,2025-08-11,7,None,9,56,5.2,19.5,3.1,17.9
+SYN-0089,25,Female,Lumbar stenosis,Decompression + fusion,1,2025-10-11,3,None,10,50,7.5,20.8,,
+SYN-0090,70,Female,Degenerative spondylolisthesis,Open decompression,3,2024-05-26,4,None,5,72,2.3,36.0,0.9,29.5
+SYN-0091,23,Female,Lumbar disc herniation,Decompression + fusion,2,2024-01-01,5,None,5,68,0,38.7,2.0,51.5
+SYN-0092,36,Female,Lumbar disc herniation,Full endoscopic,2,2025-01-07,1,None,8,78,,,2.6,49.2
+SYN-0093,28,Male,Degenerative spondylolisthesis,Decompression + fusion,2,2024-06-03,2,None,8,74,2.9,38.9,3.4,56.8
+SYN-0094,32,Male,Lumbar disc herniation,UBE,1,2025-02-14,4,None,9,44,6.8,25.4,6.0,28.8
+SYN-0095,72,Female,Lumbar stenosis,UBE,3,2025-08-01,3,None,9,44,6.7,6.0,5.8,9.3
+SYN-0096,78,Female,Degenerative spondylolisthesis,UBE,1,2025-01-27,2,Transient neurological deficit,9,74,6.2,40.3,,
+SYN-0097,28,Male,Degenerative spondylolisthesis,Full endoscopic,2,2024-11-13,4,None,9,56,4.8,42.6,2.6,24.4
+SYN-0098,28,Male,Lumbar stenosis,Open decompression,2,2025-09-05,8,None,9,50,,,2.1,12.2
+SYN-0099,67,Female,Lumbar stenosis,UBE,2,2025-04-27,4,None,7,64,4.4,50.7,0.4,21.3
+SYN-0100,81,Female,Lumbar disc herniation,UBE,2,2024-11-05,1,None,9,30,3.6,0,3.9,0
+SYN-0101,66,Male,Lumbar disc herniation,Decompression + fusion,1,2025-01-21,2,None,6,62,2.1,24.6,0.3,30.4
+SYN-0102,28,Female,Degenerative spondylolisthesis,Decompression + fusion,1,2024-06-28,3,None,5,48,2.5,12.5,,
+SYN-0103,24,Female,Lumbar stenosis,Decompression + fusion,1,2025-11-04,3,None,10,42,6.1,5.7,3.3,15.9
+SYN-0104,47,Male,Degenerative spondylolisthesis,Open decompression,1,2025-04-05,5,None,8,32,5.9,18.4,1.0,0
+SYN-0105,68,Female,Lumbar stenosis,Open decompression,2,2024-12-16,2,None,7,32,,,1.0,13.7
+SYN-0106,57,Male,Lumbar stenosis,Full endoscopic,1,2025-09-01,1,None,10,36,4.4,18.4,5.5,9.3
+SYN-0107,44,Female,Lumbar disc herniation,Full endoscopic,1,2024-06-27,2,None,8,34,,,1.3,14.9
+SYN-0108,40,Female,Degenerative spondylolisthesis,Full endoscopic,3,2024-09-05,2,Transient neurological deficit,5,46,2.5,17.8,0,3.4
+SYN-0109,33,Female,Lumbar stenosis,Full endoscopic,3,2025-04-16,4,None,6,52,1.1,16.7,,
+SYN-0110,31,Male,Lumbar disc herniation,Open decompression,1,2025-07-09,8,Dural tear,10,30,4.4,12.0,4.2,7.0
+SYN-0111,24,Male,Degenerative spondylolisthesis,UBE,2,2024-04-20,2,None,9,80,4.5,56.3,3.5,53.7
+SYN-0112,48,Female,Lumbar disc herniation,Open decompression,2,2025-05-23,3,None,7,30,3.4,0,,
+SYN-0113,61,Male,Degenerative spondylolisthesis,Decompression + fusion,2,2025-05-13,8,None,10,68,5.8,44.4,,
+SYN-0114,30,Male,Lumbar disc herniation,UBE,2,2024-08-11,4,None,8,40,,,4.0,1.1
+SYN-0115,37,Male,Lumbar stenosis,Open decompression,1,2024-01-19,7,None,5,56,0.8,32.0,1.8,14.5
+SYN-0116,58,Male,Lumbar stenosis,Decompression + fusion,2,2024-01-06,8,None,9,50,3.4,19.9,5.6,34.3
+SYN-0117,80,Male,Lumbar disc herniation,UBE,3,2024-10-17,3,None,5,60,,,,
+SYN-0118,71,Male,Lumbar stenosis,UBE,2,2025-07-09,2,None,5,74,0,59.7,1.1,35.3
+SYN-0119,27,Male,Lumbar disc herniation,Full endoscopic,1,2025-05-15,4,None,8,74,4.2,47.3,,
+SYN-0120,49,Male,Degenerative spondylolisthesis,Open decompression,3,2025-10-06,3,None,6,34,1.6,23.0,2.3,15.4
+SYN-0121,64,Female,Lumbar disc herniation,UBE,1,2025-03-20,2,None,9,42,6.5,7.4,2.3,24.5
+SYN-0122,40,Male,Lumbar stenosis,UBE,1,2025-01-23,4,Dural tear,7,54,3.0,30.0,2.0,27.7
+SYN-0123,24,Male,Lumbar stenosis,Open decompression,2,2025-06-24,8,Dural tear,5,34,,,0,11.0
+SYN-0124,73,Female,Lumbar disc herniation,Decompression + fusion,1,2025-07-02,4,None,10,46,6.7,10.7,3.1,27.9
+SYN-0125,26,Female,Lumbar disc herniation,UBE,1,2024-02-19,3,None,8,62,5.7,42.7,2.2,29.6
+SYN-0126,44,Male,Lumbar stenosis,Open decompression,2,2024-10-21,7,None,7,54,,,,
+SYN-0127,82,Female,Lumbar disc herniation,Full endoscopic,3,2024-05-19,3,None,10,40,5.7,9.1,4.6,1.6
+SYN-0128,76,Female,Lumbar disc herniation,Open decompression,2,2025-05-05,4,None,6,44,3.1,16.0,0,13.1
+SYN-0129,80,Male,Lumbar stenosis,Full endoscopic,1,2025-03-18,3,None,7,66,2.6,54.7,2.5,27.2
+SYN-0130,53,Male,Lumbar stenosis,Full endoscopic,1,2025-10-23,3,None,9,80,4.2,62.7,4.4,58.9
+SYN-0131,80,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2024-12-01,5,None,10,68,7.5,49.4,6.7,35.9
+SYN-0132,41,Male,Lumbar stenosis,Decompression + fusion,1,2025-02-27,3,None,8,42,2.9,17.5,2.7,11.9
+SYN-0133,59,Male,Degenerative spondylolisthesis,Open decompression,2,2025-02-17,2,None,5,82,0.5,60.1,0,61.7
+SYN-0134,32,Female,Lumbar stenosis,Decompression + fusion,1,2024-09-27,4,None,8,64,4.0,27.1,3.4,40.7
+SYN-0135,56,Female,Lumbar disc herniation,Open decompression,2,2025-09-17,5,None,9,30,4.3,0,3.5,0
+SYN-0136,49,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2025-05-21,6,None,10,36,6.2,1.7,5.7,11.5
+SYN-0137,71,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2025-02-16,5,None,8,32,3.1,7.9,3.4,11.8
+SYN-0138,50,Female,Lumbar disc herniation,Decompression + fusion,1,2024-04-25,4,None,10,46,,,6.9,15.1
+SYN-0139,52,Female,Lumbar disc herniation,Open decompression,1,2024-07-19,6,None,9,32,5.0,7.8,4.6,8.5
+SYN-0140,71,Female,Degenerative spondylolisthesis,UBE,2,2024-06-28,1,None,10,76,7.2,53.5,3.5,53.1
+SYN-0141,52,Female,Degenerative spondylolisthesis,UBE,2,2025-04-05,2,None,8,70,5.2,48.7,1.9,27.4
+SYN-0142,33,Male,Lumbar stenosis,Open decompression,2,2025-01-10,3,None,6,78,0.4,54.3,,
+SYN-0143,75,Female,Degenerative spondylolisthesis,Decompression + fusion,1,2025-10-03,8,None,7,40,3.8,3.9,0.7,0
+SYN-0144,72,Male,Lumbar disc herniation,Full endoscopic,3,2025-07-06,4,None,10,48,4.1,15.7,4.0,24.8
+SYN-0145,45,Female,Lumbar disc herniation,Open decompression,1,2025-03-13,8,None,10,38,,,5.8,19.0
+SYN-0146,67,Male,Lumbar stenosis,UBE,1,2025-06-24,3,None,7,76,4.8,52.8,,
+SYN-0147,74,Male,Lumbar stenosis,Open decompression,2,2025-06-15,8,None,5,82,2.1,71.5,1.9,65.1
+SYN-0148,38,Female,Lumbar disc herniation,UBE,3,2024-04-08,3,None,7,62,1.3,50.7,3.4,26.9
+SYN-0149,41,Female,Lumbar stenosis,Full endoscopic,2,2025-08-09,3,None,10,56,5.5,42.0,5.7,16.5
+SYN-0150,79,Female,Lumbar disc herniation,Open decompression,2,2024-12-07,7,None,10,52,7.2,25.0,,
+SYN-0151,22,Male,Degenerative spondylolisthesis,UBE,2,2025-01-11,1,Transient neurological deficit,10,64,8.0,47.1,3.6,37.4
+SYN-0152,33,Male,Degenerative spondylolisthesis,UBE,2,2025-12-08,4,None,10,72,7.5,52.4,4.8,30.7
+SYN-0153,48,Male,Degenerative spondylolisthesis,Decompression + fusion,2,2025-03-16,4,Transient neurological deficit,6,30,1.7,4.9,1.2,8.7
+SYN-0154,65,Female,Lumbar stenosis,Full endoscopic,1,2025-02-11,2,Dural tear,7,42,3.8,12.6,2.4,19.3
+SYN-0155,57,Female,Lumbar stenosis,Open decompression,3,2025-09-25,6,None,8,54,2.8,25.5,1.2,38.4
+SYN-0156,27,Male,Degenerative spondylolisthesis,UBE,2,2025-01-13,1,None,6,66,3.9,29.6,0.6,44.7
+SYN-0157,54,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2025-12-14,7,None,8,54,4.9,31.4,3.0,25.0
+SYN-0158,57,Female,Lumbar stenosis,UBE,2,2025-05-24,4,None,6,54,1.2,32.3,2.8,26.8
+SYN-0159,64,Male,Lumbar stenosis,Open decompression,1,2024-05-09,5,None,8,60,5.1,44.7,2.3,38.5
+SYN-0160,64,Male,Lumbar disc herniation,Full endoscopic,3,2024-06-07,2,None,9,82,6.2,58.7,5.8,58.3
+SYN-0161,69,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2024-07-25,5,None,5,58,0,40.7,1.2,20.2
+SYN-0162,70,Male,Lumbar disc herniation,Decompression + fusion,1,2025-01-02,2,None,10,40,5.5,9.7,5.7,12.7
+SYN-0163,49,Male,Degenerative spondylolisthesis,UBE,1,2025-10-22,4,None,8,54,4.2,31.1,2.4,28.0
+SYN-0164,60,Female,Lumbar disc herniation,Decompression + fusion,2,2025-05-20,5,Dural tear,7,64,4.6,39.7,0.3,31.7
+SYN-0165,71,Male,Lumbar disc herniation,Open decompression,3,2024-08-26,6,None,7,76,5.0,58.9,,
+SYN-0166,31,Male,Degenerative spondylolisthesis,Open decompression,1,2024-10-14,2,None,7,32,2.6,0,0.5,8.7
+SYN-0167,50,Male,Lumbar disc herniation,Decompression + fusion,1,2024-08-11,2,None,7,42,2.2,7.5,3.8,4.8
+SYN-0168,46,Female,Degenerative spondylolisthesis,Decompression + fusion,2,2024-02-22,5,None,10,82,6.4,45.2,,
+SYN-0169,69,Male,Lumbar disc herniation,Decompression + fusion,2,2024-03-06,7,None,9,62,5.8,31.3,2.6,31.7
+SYN-0170,35,Female,Lumbar disc herniation,Open decompression,2,2024-02-13,6,None,6,78,0.3,51.8,2.8,57.5
+SYN-0171,38,Female,Degenerative spondylolisthesis,Open decompression,1,2024-06-27,3,None,8,62,5.6,32.2,4.3,21.4
+SYN-0172,53,Male,Degenerative spondylolisthesis,Decompression + fusion,2,2025-05-17,6,None,7,42,,,3.3,7.4
+SYN-0173,30,Female,Lumbar disc herniation,Full endoscopic,1,2024-10-24,2,None,10,34,,,,
+SYN-0174,78,Male,Lumbar stenosis,Open decompression,1,2024-12-09,4,None,8,60,,,3.0,33.0
+SYN-0175,47,Female,Lumbar disc herniation,UBE,1,2024-03-03,2,Superficial infection,5,54,0.8,36.6,0,33.7
+SYN-0176,75,Female,Lumbar disc herniation,Decompression + fusion,1,2024-06-27,2,None,8,56,2.7,27.9,1.3,23.3
+SYN-0177,38,Female,Degenerative spondylolisthesis,Full endoscopic,1,2024-02-09,4,None,5,46,1.2,34.2,0.3,11.4
+SYN-0178,52,Female,Lumbar disc herniation,Full endoscopic,2,2024-04-28,2,None,6,40,2.6,12.0,0.8,6.9
+SYN-0179,39,Female,Lumbar disc herniation,Full endoscopic,1,2024-06-16,4,None,5,40,0,24.8,1.4,21.6
+SYN-0180,61,Male,Lumbar disc herniation,UBE,1,2024-10-28,3,None,10,80,5.0,54.2,3.3,53.9
+SYN-0181,67,Male,Lumbar disc herniation,Full endoscopic,2,2025-03-04,4,None,5,78,1.0,48.6,0.7,62.0
+SYN-0182,44,Male,Lumbar disc herniation,Full endoscopic,3,2025-11-03,3,None,6,72,0.9,58.8,1.4,49.6
+SYN-0183,41,Female,Degenerative spondylolisthesis,UBE,3,2025-10-03,1,None,7,82,,,1.0,50.4
+SYN-0184,40,Female,Lumbar stenosis,Full endoscopic,2,2024-09-01,3,None,5,82,0.8,55.5,1.5,40.5
+SYN-0185,59,Male,Lumbar disc herniation,Open decompression,2,2024-01-02,3,None,10,32,,,,
+SYN-0186,59,Male,Lumbar stenosis,Open decompression,2,2024-06-08,3,None,6,30,2.8,0,2.6,11.4
+SYN-0187,76,Male,Lumbar stenosis,UBE,2,2024-01-16,1,None,10,78,7.8,40.1,,
+SYN-0188,28,Male,Lumbar disc herniation,Full endoscopic,1,2025-02-25,4,None,7,74,2.6,36.0,,
+SYN-0189,63,Female,Lumbar stenosis,Open decompression,1,2024-04-19,2,None,9,80,4.7,48.7,5.4,45.0
+SYN-0190,47,Female,Degenerative spondylolisthesis,UBE,2,2025-02-07,2,None,8,46,5.8,20.3,2.6,13.3
+SYN-0191,28,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2025-07-10,3,Dural tear,10,52,4.7,23.4,4.7,26.9
+SYN-0192,65,Female,Lumbar disc herniation,Full endoscopic,3,2024-01-27,2,None,8,82,2.0,52.3,3.1,44.7
+SYN-0193,51,Male,Lumbar disc herniation,Open decompression,1,2025-05-26,2,None,7,46,3.7,18.7,0,29.8
+SYN-0194,68,Female,Lumbar stenosis,UBE,2,2025-02-06,2,None,9,36,5.4,0,5.9,0.6
+SYN-0195,77,Female,Degenerative spondylolisthesis,Full endoscopic,2,2025-05-14,2,None,9,76,3.6,48.4,5.8,36.9
+SYN-0196,70,Female,Degenerative spondylolisthesis,Open decompression,2,2025-07-27,4,None,10,72,7.5,56.2,5.3,31.5
+SYN-0197,60,Male,Degenerative spondylolisthesis,UBE,2,2024-09-13,3,None,8,50,3.0,38.5,2.5,18.9
+SYN-0198,72,Male,Lumbar disc herniation,Decompression + fusion,2,2024-11-07,8,None,8,62,3.8,27.5,4.5,33.1
+SYN-0199,66,Male,Degenerative spondylolisthesis,Decompression + fusion,1,2024-02-16,6,None,10,32,7.4,8.2,,
+SYN-0200,32,Female,Lumbar stenosis,Full endoscopic,3,2025-04-20,3,None,5,46,0.5,20.7,0,21.6
+SYN-0201,61,Male,Degenerative spondylolisthesis,UBE,1,2024-08-19,1,None,10,40,6.5,9.0,,
+SYN-0202,38,Male,Lumbar stenosis,Decompression + fusion,1,2024-05-27,3,None,7,38,,,3.4,15.4
+SYN-0203,42,Male,Degenerative spondylolisthesis,Open decompression,3,2025-09-14,4,None,10,66,4.1,34.4,3.3,50.1
+SYN-0204,46,Male,Lumbar disc herniation,UBE,3,2025-01-15,1,None,10,76,7.6,47.1,4.9,50.4
+SYN-0205,56,Female,Lumbar disc herniation,Open decompression,1,2025-05-04,5,None,9,80,3.8,58.7,3.0,45.2
+SYN-0206,54,Female,Lumbar stenosis,Decompression + fusion,1,2024-07-22,4,None,7,62,3.4,32.2,,
+SYN-0207,23,Female,Lumbar stenosis,Full endoscopic,2,2025-02-09,2,None,5,30,,,0,7.4
+SYN-0208,25,Male,Lumbar disc herniation,UBE,2,2025-05-10,4,None,7,34,,,,
+SYN-0209,78,Male,Lumbar disc herniation,Decompression + fusion,2,2024-12-23,7,None,7,54,1.9,22.4,,
+SYN-0210,70,Male,Lumbar stenosis,Open decompression,1,2025-06-09,4,None,6,30,2.8,17.7,0,1.9
+SYN-0211,29,Female,Lumbar disc herniation,Full endoscopic,2,2024-11-27,3,None,7,40,3.9,15.1,1.5,22.9
+SYN-0212,52,Female,Degenerative spondylolisthesis,Decompression + fusion,3,2025-09-09,2,None,10,72,5.3,47.9,6.8,34.5
+SYN-0213,27,Male,Degenerative spondylolisthesis,Open decompression,3,2025-02-02,2,None,9,56,4.2,39.6,4.9,23.5
+SYN-0214,47,Female,Lumbar stenosis,Decompression + fusion,3,2025-08-07,8,None,7,68,1.8,32.1,2.8,34.1
+SYN-0215,39,Male,Lumbar disc herniation,UBE,2,2025-01-09,1,None,6,58,2.7,32.6,0.5,17.7
+SYN-0216,51,Male,Lumbar disc herniation,Open decompression,1,2024-04-06,8,None,9,56,3.1,40.9,3.0,30.8
+SYN-0217,80,Female,Lumbar disc herniation,Decompression + fusion,3,2024-08-06,8,None,9,62,3.8,34.7,2.5,42.1
+SYN-0218,37,Male,Lumbar disc herniation,UBE,2,2024-12-16,1,None,9,82,4.5,49.0,3.9,53.9
+SYN-0219,61,Female,Lumbar stenosis,Open decompression,3,2024-04-19,2,None,7,30,1.1,2.9,0.3,1.1
+SYN-0220,53,Female,Lumbar disc herniation,Decompression + fusion,3,2025-11-14,6,None,5,78,2.8,47.8,0,39.5
+SYN-0221,42,Male,Lumbar stenosis,Open decompression,1,2025-11-23,3,None,5,68,2.2,39.1,1.9,52.5
+SYN-0222,31,Male,Lumbar disc herniation,Open decompression,2,2024-07-06,5,None,8,42,,,,
+SYN-0223,33,Female,Lumbar disc herniation,Decompression + fusion,2,2025-10-02,6,None,8,74,2.1,56.3,3.5,54.3
+SYN-0224,42,Male,Lumbar disc herniation,Decompression + fusion,3,2025-01-24,6,None,6,34,0.6,0,0,0
+SYN-0225,78,Male,Degenerative spondylolisthesis,UBE,2,2024-06-09,2,None,10,40,5.1,11.9,3.3,17.4
+SYN-0226,28,Female,Lumbar stenosis,UBE,3,2025-04-06,1,None,7,44,1.1,33.8,1.2,10.9
+SYN-0227,69,Female,Lumbar stenosis,Open decompression,3,2024-08-16,4,None,8,50,3.4,13.1,4.4,17.3
+SYN-0228,54,Male,Degenerative spondylolisthesis,Open decompression,3,2024-08-26,7,None,5,82,,,1.4,62.3
+SYN-0229,42,Male,Lumbar stenosis,Decompression + fusion,2,2024-09-10,4,None,10,50,5.7,18.8,6.9,19.8
+SYN-0230,79,Male,Lumbar disc herniation,UBE,1,2024-03-01,4,None,9,66,5.0,47.3,4.8,28.3
+SYN-0231,75,Male,Degenerative spondylolisthesis,UBE,1,2025-02-20,3,None,8,46,4.8,21.5,1.4,28.5
+SYN-0232,28,Male,Lumbar stenosis,Open decompression,2,2024-02-25,8,None,7,38,4.7,14.1,3.6,12.3
+SYN-0233,38,Male,Degenerative spondylolisthesis,Decompression + fusion,2,2025-06-24,6,None,5,40,,,1.6,22.0
+SYN-0234,73,Male,Degenerative spondylolisthesis,Decompression + fusion,3,2025-04-06,6,None,5,64,,,0,42.8
+SYN-0235,31,Female,Lumbar stenosis,Open decompression,1,2024-10-24,8,None,7,54,1.0,30.4,4.0,14.6
+SYN-0236,37,Female,Lumbar disc herniation,UBE,2,2024-04-23,4,None,6,38,0.6,26.0,0,0
+SYN-0237,26,Female,Lumbar stenosis,Decompression + fusion,2,2024-01-16,8,None,10,48,4.9,14.4,5.4,7.8
+SYN-0238,65,Male,Degenerative spondylolisthesis,Open decompression,2,2025-07-25,3,None,5,72,1.7,58.4,0.9,46.0
+SYN-0239,63,Male,Lumbar stenosis,Full endoscopic,1,2025-05-10,4,None,5,40,0.7,23.8,0,6.9
+SYN-0240,59,Male,Lumbar disc herniation,UBE,1,2025-04-27,3,Dural tear,6,66,3.1,55.2,,

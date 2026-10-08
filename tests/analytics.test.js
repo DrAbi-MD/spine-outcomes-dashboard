@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {mean,paired,summary,filterCohort,toCSV} from '../dist/analytics.js';
+const rows=JSON.parse(readFileSync(new URL('../dist/patients.json',import.meta.url)));
+test('missing observations excluded; zero scores retained',()=>{assert.equal(mean([0,null,10]),5);assert.equal(mean([null]),null);assert.deepEqual(paired([{vas_baseline:8,vas_6m:null},{vas_baseline:8,vas_6m:0}],'vas'),[8]);});
+test('empty cohorts do not produce a false zero mean',()=>{assert.equal(summary([]).stay,null);assert.deepEqual(paired([],'odi'),[]);});
+test('age filters are mutually exclusive and exhaustive',()=>{const groups=['under50','50to64','65plus'].map(age=>filterCohort(rows,{age}));assert.equal(groups.flat().length,rows.length);assert.equal(new Set(groups.flat().map(r=>r.patient_id)).size,rows.length);assert.ok(filterCohort(rows,{procedure:'UBE',sex:'Female'}).every(r=>r.procedure==='UBE'&&r.sex==='Female'));});
+test('synthetic cohort schema and score bounds',()=>{assert.equal(rows.length,240);assert.equal(new Set(rows.map(r=>r.patient_id)).size,240);for(const r of rows){for(const t of ['baseline','3m','6m'])for(const [s,max] of [['vas',10],['odi',100]])assert.ok(r[s+'_'+t]===null||(r[s+'_'+t]>=0&&r[s+'_'+t]<=max));assert.ok(r.hospital_days>0);}});
+test('CSV quotes strings and preserves missingness',()=>{assert.equal(toCSV([{a:'a"b',b:null}],['a','b']),'"a","b"\r\n"a""b",""');});

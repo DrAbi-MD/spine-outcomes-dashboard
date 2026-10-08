@@ -1,0 +1,5 @@
+export function mean(values) { const valid = values.filter(v => typeof v === 'number' && Number.isFinite(v)); return valid.length ? valid.reduce((a,b)=>a+b,0)/valid.length : null; }
+export function summary(rows) { return {count:rows.length, stay:mean(rows.map(r=>r.hospital_days)), complications:rows.filter(r=>r.complication!=='None').length, followup:rows.filter(r=>r.odi_6m!==null).length}; }
+export function paired(rows, score) { return rows.filter(r=>Number.isFinite(r[score+'_baseline']) && Number.isFinite(r[score+'_6m'])).map(r=>r[score+'_baseline']-r[score+'_6m']); }
+export function filterCohort(rows, filters) { return rows.filter(r=>(!filters.procedure || r.procedure===filters.procedure) && (!filters.diagnosis || r.diagnosis===filters.diagnosis) && (!filters.sex || r.sex===filters.sex) && (!filters.age || (filters.age==='under50' ? r.age<50 : filters.age==='50to64' ? r.age>=50&&r.age<65 : r.age>=65))); }
+export function toCSV(rows, keys) { const quote=v=>'"'+String(v??'').replaceAll('"','""')+'"'; return [keys.map(quote).join(','), ...rows.map(r=>keys.map(k=>quote(r[k])).join(','))].join('\r\n'); }
